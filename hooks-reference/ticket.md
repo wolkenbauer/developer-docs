@@ -479,6 +479,7 @@ add_hook('TicketOpenAdmin', 1, function($vars) {
 ## TicketOpenValidation
 
 Executes when an end user provides data for a new ticket submission.
+(available since V7.8.0 Beta 1)
 
 #### Parameters
 
